@@ -1,7 +1,7 @@
 ## rguides
 
 - [qelectrotech](https://github.com/RoboticsHardwareSolutions/qguide) - Гайды, библиотеки, CI скрипты - для проектирования схем в qelectrotech
-- [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - Требования к проектированию электронных устройств в AltiumDesigner
+- [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - Гайды, библиотеки, CI скрипты для проектированию электронных устройств в AltiumDesigner
 
 
 ## rlibs
