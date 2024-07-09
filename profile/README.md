@@ -1,16 +1,17 @@
 ## rdevices
 
-- [PLC multi industrial interface](https://github.com/RoboticsHardwareSolutions/rPLC-mii-hardware) - PLC с набором промышленных интерфейсов
-- [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - Адаптер USB <-> CAN
-- [usb-to-ttl adapter](https://github.com/RoboticsHardwareSolutions/rusb2ttl-hardware) - Адаптер USB <-> TTL
+- [PLC multi industrial interface](https://github.com/RoboticsHardwareSolutions/rPLC-mii-hardware) - PLC with a set of industrial interfaces
+- [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - adapter USB <-> CAN
+- [usb-to-ttl adapter](https://github.com/RoboticsHardwareSolutions/rusb2ttl-hardware) - adapter USB <-> TTL
 - [rlink](https://github.com/RoboticsHardwareSolutions/rlink) - MCU Programmer
 
 
 ## rlibs
-- [runit](https://github.com/RoboticsHardwareSolutions/runit) - Библиотека для unit тестирования
+- [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests
+- [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts
 
 
 ## rguides
 
-- [qelectrotech](https://github.com/RoboticsHardwareSolutions/qguide) - Гайды, библиотеки, CI скрипты - для проектирования схем в qelectrotech
-- [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - Гайды, библиотеки, CI скрипты для проектированию электронных устройств в AltiumDesigner
+- [qelectrotech](https://github.com/RoboticsHardwareSolutions/qguide) - gides, libraries, CI scripts for creating circuits in qelectrotech
+- [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - gides, libraries, CI scripts for designing electronic devices in Altium Designer
