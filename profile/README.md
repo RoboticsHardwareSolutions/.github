@@ -1,5 +1,6 @@
 ## rdevices
 
+- [PLC multi industrial interface](https://github.com/RoboticsHardwareSolutions/rPLC-mii-hardware) - PLC с набором промышленных интерфейсов
 - [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - Адаптер USB <-> CAN
 - [usb-to-ttl adapter](https://github.com/RoboticsHardwareSolutions/rusb2ttl-hardware) - Адаптер USB <-> TTL
 - [rlink](https://github.com/RoboticsHardwareSolutions/rlink) - MCU Programmer
