@@ -7,7 +7,7 @@
 
 
 ## rlibs
-- 
+- [runit](https://github.com/RoboticsHardwareSolutions/runit) - Библиотека для unit тестирования
 
 
 ## rguides
