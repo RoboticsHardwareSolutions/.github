@@ -10,11 +10,12 @@ RHS supports of open-source projects, libraries, solutions, and tools that aim t
 
 
 ## rlibs
-- [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests
-- [rbtn](https://github.com/RoboticsHardwareSolutions/rbtn) - library for simple implementation of button events in MCU
-- [rbuffer](https://github.com/RoboticsHardwareSolutions/rbuffer) - simple buffer wrapper
-- [rcrc](https://github.com/RoboticsHardwareSolutions/rcrc/tree/main) - set of crc algorithms
-- [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts
+- [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests                                    (UNIX, Mac, Win, BareMetal)
+- [rbtn](https://github.com/RoboticsHardwareSolutions/rbtn) - library for simple implementation of button events in MCU   (UNIX, Mac, Win, BareMetal)
+- [rbuffer](https://github.com/RoboticsHardwareSolutions/rbuffer) - simple buffer wrapper                                 (UNIX, Mac, Win, BareMetal)
+- [rcrc](https://github.com/RoboticsHardwareSolutions/rcrc/tree/main) - set of crc algorithms                             (UNIX, Mac, Win, BareMetal)
+- [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts                    (UNIX, Mac, Win, BareMetal)
+- [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
 
 
 ## rguides
