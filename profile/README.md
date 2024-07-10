@@ -11,6 +11,9 @@ RHS supports of open-source projects, libraries, solutions, and tools that aim t
 
 ## rlibs
 - [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests
+- [rbtn](https://github.com/RoboticsHardwareSolutions/rbtn) - library for simple implementation of button events in MCU
+- [rbuffer](https://github.com/RoboticsHardwareSolutions/rbuffer) - simple buffer wrapper
+- [rcrc](https://github.com/RoboticsHardwareSolutions/rcrc/tree/main) - set of crc algorithms
 - [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts
 
 
