@@ -20,5 +20,5 @@ RHS supports of open-source projects, libraries, solutions, and tools that aim t
 
 ## rguides
 
-- [qelectrotech](https://github.com/RoboticsHardwareSolutions/qguide) - gides, libraries, CI scripts for creating circuits in qelectrotech
-- [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - gides, libraries, CI scripts for designing electronic devices in Altium Designer
+- [qelectrotech](https://github.com/RoboticsHardwareSolutions/qguide) - guides, libraries, CI scripts for creating circuits in qelectrotech
+- [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - guides, libraries, CI scripts for designing electronic devices in Altium Designer
