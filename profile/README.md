@@ -10,12 +10,19 @@ RHS supports of open-source projects, libraries, solutions, and tools that aim t
 
 
 ## rlibs
+__Communication liraries:__
+- [rtelnet](https://github.com/RoboticsHardwareSolutions/rtelnet) - library for telnet (for LWIP) in project              (BareMetal)
+- [rcan](https://github.com/RoboticsHardwareSolutions/rcan) - library for easy use of CAN                                 (UNIX, Mac, Win, BareMetal)
+- [rserial](https://github.com/RoboticsHardwareSolutions/rserial) - library for easy use of Serial Port                   (UNIX, Mac, Win, BareMetal)
+
+__Other liraries:__
 - [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests                                    (UNIX, Mac, Win, BareMetal)
 - [rbtn](https://github.com/RoboticsHardwareSolutions/rbtn) - library for simple implementation of button events in MCU   (UNIX, Mac, Win, BareMetal)
 - [rbuffer](https://github.com/RoboticsHardwareSolutions/rbuffer) - simple buffer wrapper                                 (UNIX, Mac, Win, BareMetal)
 - [rcrc](https://github.com/RoboticsHardwareSolutions/rcrc/tree/main) - set of crc algorithms                             (UNIX, Mac, Win, BareMetal)
 - [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts                    (UNIX, Mac, Win, BareMetal)
 - [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
+
 
 
 ## rguides
