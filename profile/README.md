@@ -6,8 +6,8 @@ RHS supports of open-source projects, libraries, solutions, and tools that aim t
 - [BareMetal PLC multi industrial interface](https://github.com/RoboticsHardwareSolutions/rPLC-mii-hardware) - BareMetal PLC with a set of industrial interfaces
 - [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - adapter USB <-> CAN
 - [usb-to-ttl adapter](https://github.com/RoboticsHardwareSolutions/rusb2ttl-hardware) - adapter USB <-> TTL
-- [ttl-to-rs232](https://github.com/RoboticsHardwareSolutions/ttl2rs232-hardware) - adapter TTL <-> RS232
-- [ttl-to-rs485](https://github.com/RoboticsHardwareSolutions/ttl2rs485-hardware) - adapter TTL <-> RS485
+- [ttl-to-rs232 adapter](https://github.com/RoboticsHardwareSolutions/ttl2rs232-hardware) - adapter TTL <-> RS232
+- [ttl-to-rs485 adapter](https://github.com/RoboticsHardwareSolutions/ttl2rs485-hardware) - adapter TTL <-> RS485
 - [rlink](https://github.com/RoboticsHardwareSolutions/rlink) - MCU Programmer
 
 
