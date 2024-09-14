@@ -31,3 +31,4 @@ __Other liraries:__
 - [qelectrotech](https://github.com/RoboticsHardwareSolutions/qguide) - guides, libraries, CI scripts for creating circuits in qelectrotech
 - [altguide](https://github.com/RoboticsHardwareSolutions/altguide) - guides, libraries, CI scripts for designing electronic devices in Altium Designer
 - [mclguide](https://github.com/RoboticsHardwareSolutions/mclguide) - guides, CI scripts for creating hardware products
+- [hdms](https://github.com/RoboticsHardwareSolutions/hdms) - Hardware Development and Manufacturing Supervisor
