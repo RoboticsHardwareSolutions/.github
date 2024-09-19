@@ -7,7 +7,7 @@ __BareMetal PLC M:__
 
 __BareMetal PLC L:__
 - [BareMetal PLC L](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L) - Altium PCB project Bare metal programming PLC with a set of industrial interfaces model L
-- [Bare Metal PLC](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L-assembly) - KOMPAS 3D model of enclosure with PCB and outside connectors
+- [Bare Metal PLC L assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L-assembly) - KOMPAS 3D model of enclosure with PCB and outside connectors
 
 __BareMetal PLC XL:__
 - [BareMetal PLC XL](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL) - Altium PCB project  Bare metal programming PLC with a set of industrial interfaces model XL
