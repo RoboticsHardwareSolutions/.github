@@ -24,12 +24,12 @@ __BareMetal PLC XL:__
 
 
 ## rlibs
-__Communication liraries:__
+__Communication libraries:__
 - [rtelnet](https://github.com/RoboticsHardwareSolutions/rtelnet) - library for telnet (for LWIP) in project              (BareMetal)
 - [rcan](https://github.com/RoboticsHardwareSolutions/rcan) - library for easy use of CAN                                 (UNIX, Mac, Win, BareMetal)
 - [rserial](https://github.com/RoboticsHardwareSolutions/rserial) - library for easy use of Serial Port                   (UNIX, Mac, Win, BareMetal)
 
-__Other liraries:__
+__Other libraries:__
 - [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests                                    (UNIX, Mac, Win, BareMetal)
 - [rbtn](https://github.com/RoboticsHardwareSolutions/rbtn) - library for simple implementation of button events in MCU   (UNIX, Mac, Win, BareMetal)
 - [rbuffer](https://github.com/RoboticsHardwareSolutions/rbuffer) - simple buffer wrapper                                 (UNIX, Mac, Win, BareMetal)
