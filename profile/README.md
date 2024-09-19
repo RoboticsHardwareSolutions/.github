@@ -1,9 +1,10 @@
 # Welcome to RHS
 RHS supports of open-source projects, libraries, solutions, and tools that aim to speed up the development of your projects.
 
-## rdevices
+## BareMetal PLCs
+- [BareMetal PLC M](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-M) - Bare metal programming PLC with a set of industrial interfaces
 
-- [BareMetal PLC multi industrial interface](https://github.com/RoboticsHardwareSolutions/rPLC-mii-hardware) - BareMetal PLC with a set of industrial interfaces
+## rdevices
 - [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - adapter USB <-> CAN
 - [usb-to-ttl adapter](https://github.com/RoboticsHardwareSolutions/rusb2ttl-hardware) - adapter USB <-> TTL
 - [ttl-to-rs232 adapter](https://github.com/RoboticsHardwareSolutions/rttl2rs232-hardware) - adapter TTL <-> RS232
