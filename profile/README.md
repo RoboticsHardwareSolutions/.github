@@ -2,8 +2,11 @@
 RHS supports of open-source projects, libraries, solutions, and tools that aim to speed up the development of your projects.
 
 ## BareMetal PLCs
-- [BareMetal PLC M](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-M) - Bare metal programming PLC with a set of industrial interfaces model M
-- [BareMetal PLC XL](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL) - Bare metal programming PLC with a set of industrial interfaces model XL
+__BareMetal PLC M:__
+- [BareMetal PLC M](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-M) - Altium PCB project Bare metal programming PLC with a set of industrial interfaces model M
+__BareMetal PLC XL:__
+- [BareMetal PLC XL](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL) - Altium PCB project  Bare metal programming PLC with a set of industrial interfaces model XL
+- [BareMetal PLC XL assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly) - KOMPAS 3D model of enclosure with PCB and outside connectors
 
 ## rdevices
 - [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - adapter USB <-> CAN
