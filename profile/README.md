@@ -39,6 +39,7 @@ __Other libraries:__
 - [rtimer](https://github.com/RoboticsHardwareSolutions/rtimer) - library for easy use timer functions in project         (UNIX, Mac, Win, BareMetal)
 - [rstorage](https://github.com/RoboticsHardwareSolutions/rstorage) - library for easy use storage functions in project   (UNIX, Mac, Win, BareMetal)
 - [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
+- [rproto](https://github.com/RoboticsHardwareSolutions/rproto) - library for easy working with protobuf through serial   (UNIX, Mac, Win, BareMetal)
 - [rdebug](https://github.com/RoboticsHardwareSolutions/rdebug) - Segger RTT                                              (BareMetal)
 - [rnode](https://github.com/RoboticsHardwareSolutions/rnode) - Simple IPC Bus                                            (UNIX, Mac, Win)
 
