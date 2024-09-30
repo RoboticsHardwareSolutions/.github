@@ -36,6 +36,8 @@ __Other libraries:__
 - [rcrc](https://github.com/RoboticsHardwareSolutions/rcrc/tree/main) - set of crc algorithms                             (UNIX, Mac, Win, BareMetal)
 - [rbase64](https://github.com/RoboticsHardwareSolutions/rbase64) - base64 algoritm                                       (UNIX, Mac, Win, BareMetal)
 - [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts                    (UNIX, Mac, Win, BareMetal)
+- [rtimer](https://github.com/RoboticsHardwareSolutions/rtimer) - library for easy use timer functions in project         (UNIX, Mac, Win, BareMetal)
+- [rstorage](https://github.com/RoboticsHardwareSolutions/rstorage) - library for easy use storage functions in project   (UNIX, Mac, Win, BareMetal)
 - [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
 - [rdebug](https://github.com/RoboticsHardwareSolutions/rdebug) - Segger RTT                                              (BareMetal)
 - [rnode](https://github.com/RoboticsHardwareSolutions/rnode) - Simple IPC Bus                                            (UNIX, Mac, Win)
