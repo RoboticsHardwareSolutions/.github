@@ -34,6 +34,7 @@ __Other libraries:__
 - [rbtn](https://github.com/RoboticsHardwareSolutions/rbtn) - library for simple implementation of button events in MCU   (UNIX, Mac, Win, BareMetal)
 - [rbuffer](https://github.com/RoboticsHardwareSolutions/rbuffer) - simple buffer wrapper                                 (UNIX, Mac, Win, BareMetal)
 - [rcrc](https://github.com/RoboticsHardwareSolutions/rcrc/tree/main) - set of crc algorithms                             (UNIX, Mac, Win, BareMetal)
+- [rbase64](https://github.com/RoboticsHardwareSolutions/rbase64) - base64 algoritm                                       (UNIX, Mac, Win, BareMetal)
 - [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts                    (UNIX, Mac, Win, BareMetal)
 - [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
 
