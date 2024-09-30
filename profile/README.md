@@ -38,6 +38,7 @@ __Other libraries:__
 - [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts                    (UNIX, Mac, Win, BareMetal)
 - [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
 - [rdebug](https://github.com/RoboticsHardwareSolutions/rdebug) - Segger RTT                                              (BareMetal)
+- [rnode](https://github.com/RoboticsHardwareSolutions/rnode) - Simple IPC Bus                                            (UNIX, Mac, Win)
 
 
 
