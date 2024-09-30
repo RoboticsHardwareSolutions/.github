@@ -37,6 +37,7 @@ __Other libraries:__
 - [rbase64](https://github.com/RoboticsHardwareSolutions/rbase64) - base64 algoritm                                       (UNIX, Mac, Win, BareMetal)
 - [rtimeout](https://github.com/RoboticsHardwareSolutions/rtimeout) - library for easy use of timeouts                    (UNIX, Mac, Win, BareMetal)
 - [rlog](https://github.com/RoboticsHardwareSolutions/rlog) - library for easy logger in project                          (UNIX, Mac, Win, BareMetal)
+- [rdebug](https://github.com/RoboticsHardwareSolutions/rdebug) - Segger RTT                                              (BareMetal)
 
 
 
