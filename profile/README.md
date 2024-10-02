@@ -16,7 +16,8 @@ __BareMetal PLC XL:__
 - [BareMetal PLC XL assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly) - KOMPAS 3D model of enclosure with PCB and outside connectors
 
 __BareMetal PLC Documentations:__
-- [documentations](
+- [documentations](https://roboticshardwaresolutions.github.io/BareMetal-PLCs-Vault/)
+- [doc sources](https://github.com/RoboticsHardwareSolutions/BareMetal-PLCs-Vault)
 
 ## rdevices
 - [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - adapter USB <-> CAN
