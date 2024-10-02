@@ -15,6 +15,9 @@ __BareMetal PLC XL:__
 - [BareMetal PLC XL](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL) - Altium PCB project  Bare metal programming PLC with a set of industrial interfaces model XL
 - [BareMetal PLC XL assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly) - KOMPAS 3D model of enclosure with PCB and outside connectors
 
+__BareMetal PLC Documentations:__
+- [documentations](
+
 ## rdevices
 - [can-usb adapter](https://github.com/RoboticsHardwareSolutions/rcan-usb-hardware) - adapter USB <-> CAN
 - [usb-to-ttl adapter](https://github.com/RoboticsHardwareSolutions/rusb2ttl-hardware) - adapter USB <-> TTL
