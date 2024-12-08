@@ -32,6 +32,7 @@ __Communication libraries:__
 - [rtelnet](https://github.com/RoboticsHardwareSolutions/rtelnet) - library for telnet (for LWIP) in project              (BareMetal)
 - [rcan](https://github.com/RoboticsHardwareSolutions/rcan) - library for easy use of CAN                                 (UNIX, Mac, Win, BareMetal)
 - [rserial](https://github.com/RoboticsHardwareSolutions/rserial) - library for easy use of Serial Port                   (UNIX, Mac, Win, BareMetal)
+- [CanOpen stack](https://github.com/RoboticsHardwareSolutions/co_stack.git) - library for CanOpen protocol               (UNIX, Mac, Win, BareMetal)
 
 __Other libraries:__
 - [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests                                    (UNIX, Mac, Win, BareMetal)
