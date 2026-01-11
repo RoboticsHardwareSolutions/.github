@@ -29,7 +29,6 @@ __BareMetal PLC Documentations:__
 
 ## rlibs
 __Communication libraries:__
-- [rtelnet](https://github.com/RoboticsHardwareSolutions/rtelnet) - library for telnet (for LWIP) in project              (BareMetal)
 - [rcan](https://github.com/RoboticsHardwareSolutions/rcan) - library for easy use of CAN                                 (UNIX, Mac, Win, BareMetal)
 - [rserial](https://github.com/RoboticsHardwareSolutions/rserial) - library for easy use of Serial Port                   (UNIX, Mac, Win, BareMetal)
 - [CanOpen stack](https://github.com/RoboticsHardwareSolutions/co_stack.git) - library for CanOpen protocol               (UNIX, Mac, Win, BareMetal)
