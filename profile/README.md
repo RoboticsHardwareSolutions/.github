@@ -32,6 +32,8 @@ __Communication libraries:__
 - [rcan](https://github.com/RoboticsHardwareSolutions/rcan) - library for easy use of CAN                                 (UNIX, Mac, Win, BareMetal)
 - [rserial](https://github.com/RoboticsHardwareSolutions/rserial) - library for easy use of Serial Port                   (UNIX, Mac, Win, BareMetal)
 - [CanOpen stack](https://github.com/RoboticsHardwareSolutions/co_stack.git) - library for CanOpen protocol               (UNIX, Mac, Win, BareMetal)
+  - [baremetal_canopen_master_node](https://github.com/RoboticsHardwareSolutions/bm_canopen_master) - Demonstration project: CANopen master node implementation on STM32F103 using the co_stack library
+  - [baremetal_canopen_slave_node](https://github.com/RoboticsHardwareSolutions/bm_canopen_slave) - Demonstration project: CANopen slave node implementation on STM32F103 using the co_stack library
 
 __Other libraries:__
 - [runit](https://github.com/RoboticsHardwareSolutions/runit) - library for unit tests                                    (UNIX, Mac, Win, BareMetal)
