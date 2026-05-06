@@ -15,6 +15,10 @@ __BareMetal PLC XL:__
 - [BareMetal PLC XL](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL) - Altium PCB project  Bare metal programming PLC with a set of industrial interfaces model XL
 - [BareMetal PLC XL assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL-assembly) - KOMPAS 3D model of enclosure with PCB and outside connectors
 
+__BareMetal PLC Firmware:__
+- [Quick Start Project](https://github.com/RoboticsHardwareSolutions/BMPLC_Quick_Project) - Quick start for your application
+- [BareMetal Core](https://github.com/RoboticsHardwareSolutions/RHS-BareMetalCore) - core library for BareMetal PLC
+
 __BareMetal PLC Documentations:__
 - [documentations](https://roboticshardwaresolutions.github.io/BareMetal-PLCs-Vault/)
 - [doc sources](https://github.com/RoboticsHardwareSolutions/BareMetal-PLCs-Vault)
