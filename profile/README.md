@@ -5,7 +5,7 @@ RHS supports of open-source projects, libraries, solutions, and tools that aim t
 
 __BareMetal PLC M:__
 - [BareMetal PLC M](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-M) - Altium PCB project Bare metal programming PLC with a set of industrial interfaces model M 
-- [BareMeatl PLC M assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-L-assembly)  - KOMPAS 3D model of enclosure with PCB and outside connectors
+- [BareMeatl PLC M assembly](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-M-assembly)  - KOMPAS 3D model of enclosure with PCB and outside connectors
 
 __BareMetal PLC XL:__
 - [BareMetal PLC XL](https://github.com/RoboticsHardwareSolutions/BareMetal-PLC-XL) - Altium PCB project  Bare metal programming PLC with a set of industrial interfaces model XL
